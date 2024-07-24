@@ -51,7 +51,7 @@ Check out the live demo: [StateLk Demo](https://statelk-deployed.onrender.com)
 
 To run StateLk locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/SarangaSiriwardhana9/StateLK--MERN_Full_Stack_Estate_Marketplace.git`
+1. Clone the repository: `git clone https://https://github.com/nithyapriya-din/Real-Estate-management---listings-Agency
 2. Navigate to the 'client' folder and create a `.env` file with your Firebase configuration:
 ```
 REACT_APP_FIREBASE_API_KEY=your-api-key
